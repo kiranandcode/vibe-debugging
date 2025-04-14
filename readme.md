@@ -1,7 +1,8 @@
 # ⚡Vibe debugging - for when "your" vibe-programs don't work
 
-> Vibe-programmed a bit too hard and now "your" code doesn't work?
-> Sounds like it's time for some ✨vibe✨ debugging~
+> Debugging is twice as hard as writing the code in the first
+> place. Therefore, if you write the code as cleverly as possible, you
+> are, by definition, not smart enough to debug it.
 
 A dumb prototype of interactive debugging with LLMs 🤢. (Yes, this
 demo was inspired purely based off the name).  You get a **live web
@@ -9,10 +10,6 @@ interface** for LLDB, plus ChatGPT-style chat that sees your stack,
 source, and frames. 
 
 ![example of what it looks like](https://raw.githubusercontent.com/kiranandcode/vibe-debugging/main/example/vibe-debugging.png)
-
-> Debugging is twice as hard as writing the code in the first
-> place. Therefore, if you write the code as cleverly as possible, you
-> are, by definition, not smart enough to debug it.
 
 ## 🚀 Quickstart
 Usage:
