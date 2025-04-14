@@ -1,4 +1,4 @@
-# ⚡Vibe-debugging - for when "your" vibe-programs breaks
+# ⚡Vibe-debugging: for when "your" vibe-programs break
 
 > Debugging is twice as hard as writing the code in the first
 > place. Therefore, if you write the code as cleverly as possible, you
