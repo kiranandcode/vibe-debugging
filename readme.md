@@ -5,9 +5,9 @@
 > are, by definition, not smart enough to debug it.
 
 A dumb prototype of interactive debugging with LLMs 🤢. (Yes, this
-demo was inspired purely based off the name).  You get a **live web
-interface** for LLDB, plus ChatGPT-style chat that sees your stack,
-source, and frames. 
+demo was inspired purely based off the name).  Implements a live web
+interface for LLDB, plus a ChatGPT-style chat that sees your stack,
+source, and frames.
 
 ![example of what it looks like](https://raw.githubusercontent.com/kiranandcode/vibe-debugging/main/example/vibe-debugging.png)
 
