@@ -10,6 +10,10 @@ source, and frames.
 
 ![example of what it looks like](https://raw.githubusercontent.com/kiranandcode/vibe-debugging/main/example/vibe-debugging.png)
 
+> Debugging is twice as hard as writing the code in the first
+> place. Therefore, if you write the code as cleverly as possible, you
+> are, by definition, not smart enough to debug it.
+
 ## 🚀 Quickstart
 Usage:
 
