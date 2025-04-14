@@ -8,7 +8,7 @@ demo was inspired purely based off the name).  You get a **live web
 interface** for LLDB, plus ChatGPT-style chat that sees your stack,
 source, and frames. 
 
-![example of what it looks like](https://raw.githubusercontent.com/kiranandcode/vibe-debugging/main/examples/vibe-debugging.png)
+![example of what it looks like](https://raw.githubusercontent.com/kiranandcode/vibe-debugging/main/example/vibe-debugging.png)
 
 ## 🚀 Quickstart
 Usage:
